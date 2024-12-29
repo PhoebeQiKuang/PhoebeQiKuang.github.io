@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This is Phoebe Kuang
+### This is my personal website :)
 
 <!--
 **PhoebeQiKuang/PhoebeQiKuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
