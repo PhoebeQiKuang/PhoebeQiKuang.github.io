@@ -1,6 +1,6 @@
 # Social media links and contact info
-cv_pdf: # path to your CV PDF file (e.g., /assets/pdf/cv.pdf)
-email: # your email address
+cv_pdf: "" # path to your CV PDF file (e.g., /assets/pdf/cv.pdf)
+email: "" # your email address
 rss_icon: true # comment this line to hide the RSS icon
 
 # Optional: Add your social profiles
