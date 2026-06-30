@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: # Add your subtitle here (e.g., Affiliations, Contact info, etc.)
+subtitle: "" # Add your subtitle here (e.g., Affiliations, Contact info, etc.)
 
 profile:
   align: right
-  # image: prof_pic.jpg  # uncomment and add your profile image
+  # image: prof_pic.jpg # uncomment and add your profile image
   image_circular: false # crops the image to make it circular
   more_info: >
     <!-- Add your contact info here -->
