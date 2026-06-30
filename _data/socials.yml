@@ -1,16 +1,3 @@
-# Social media links and contact info
-cv_pdf: "" # path to your CV PDF file (e.g., /assets/pdf/cv.pdf)
-email: "" # your email address
-rss_icon: true # comment this line to hide the RSS icon
-
-# Optional: Add your social profiles
-# scholar_userid: "" # your Google Scholar ID
-# inspirehep_id: "" # Inspire HEP author ID
-# wechat_qr: "" # filename of QR code (saved to assets/img/)
-# whatsapp_number: "" # your WhatsApp number in international format
-
-# Uncomment to add custom social links
-# custom_social:
-#   logo: https://example.com/logo.png
-#   title: My Website
-#   url: https://example.com/
+cv_pdf: ""
+email: ""
+rss_icon: true
