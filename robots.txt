@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://PhoebeQiKuang.github.io/sitemap.xml
+Sitemap: https://phoebeqikuang.github.io/sitemap.xml
